@@ -1,2 +1,2 @@
 # multiple-disease-prediction
-this predicts multiple diseses
+this predicts multiple disese
