@@ -1,2 +1,2 @@
 # multiple-disease-prediction
-this project predicts multiple disease
+this project predict multiple disease
